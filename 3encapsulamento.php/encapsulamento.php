@@ -15,7 +15,7 @@ class Aluno{
     }
 }
 
-    $alexandre = new Aluno("Daniluski",8,8);
+    $alexandre = new Aluno("Zani",8,8);
 
     echo $alexandre->nome;
     echo$alexandre->verNota();

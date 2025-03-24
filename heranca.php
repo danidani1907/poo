@@ -7,6 +7,8 @@ class pessoa {
     // Propriedades
     public $nome;
     public $idade;
+    private $nota;
+
 
     // Construtor
     public function __construct($nome, $idade) {
